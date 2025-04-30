@@ -12,19 +12,19 @@ Foram utilizados gráficos personalizados para visualização dos dados e suport
 
 Representação do total faturado por cada loja. O gráfico evidencia que a **Loja 4** apresentou o menor desempenho em vendas.
 
-![Faturamento por Loja](graficos/faturamento_por_loja.png)
+![Faturamento por Loja](graficos/faturamento_barra.png)
 
 ## 🧁 Gráfico de Pizza - Distribuição Percentual do Faturamento
 
 Este gráfico mostra a participação percentual de cada loja no total de faturamento, permitindo rápida comparação visual.
 
-![Distribuição Percentual](graficos/distribuicao_percentual.png)
+![Distribuição Percentual](graficos/faturamento_pizza.png)
 
 ## 📈 Gráfico de Linha - Frete Médio por Loja
 
 Analisamos o frete médio de cada loja com uma linha de referência representando a média geral. Embora os valores sejam próximos, é possível observar ligeiras variações.
 
-![Frete Médio por Loja](graficos/frete_medio_por_loja.png)
+![Frete Médio por Loja](graficos/frete_medio.png)
 
 ## 📌 Conclusões
 
